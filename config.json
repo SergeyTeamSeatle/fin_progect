@@ -1,0 +1,12 @@
+{
+  "url": "https://www.reddit.com/",
+"browser": "chromium",
+  "playwright": {
+    "headless": false,
+    "slowMo": 0
+  },
+  "user": {
+    "login": "Stest_AU",
+    "pass": "Ser!2345"
+  }
+}
